@@ -1,0 +1,23 @@
+.popular{
+
+}
+.popular h1{
+    font-size: 50px;
+    font-weight: 600;
+    color: #171717;
+}
+@media screen and (max-width: 768px) {
+    .popular h1{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    
+}
+.popular hr{    height: 6px;
+    width: 200px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    background-color: #252525;}

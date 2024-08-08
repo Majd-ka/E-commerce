@@ -1,0 +1,15 @@
+li{
+    cursor: pointer;
+}
+.footer-container{
+padding: 10px;
+padding-bottom: 6px;
+background: #fbfbfb;
+border: 1px solid #ebebeb;
+}
+@media screen and (max-width: 768px) {
+    .footer-copy p{
+        font-size: 20px;
+    }
+    
+}
